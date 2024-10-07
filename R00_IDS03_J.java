@@ -1,3 +1,6 @@
+//Rule 00. Input Validation and Data Sanitization (IDS)
+
+
 if (loginSuccessful) 
 {
 	logger.severe("User login succeeded for: " + sanitizeUser(username));
